@@ -113,8 +113,9 @@ MonoBehaviour:
   m_ThrowDirectionX: 0.17
   m_ThrowDirectionY: 0.67
   m_BallCameraOffset: {x: 0, y: -0.4, z: 1}
-  ARCam: {fileID: 0}
-  m_SessionOrigin: {fileID: 0}
+  ARCam: {fileID: 7108996359232574495, guid: 08ebec4879e052c4990b78d71169950b, type: 3}
+  m_SessionOrigin: {fileID: 2968189843947531448, guid: a01af5aea612966418f79976b062f05d,
+    type: 3}
 --- !u!54 &4524908272495709364
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -126,7 +127,7 @@ Rigidbody:
   m_Mass: 1
   m_Drag: 0
   m_AngularDrag: 0.05
-  m_UseGravity: 1
+  m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
